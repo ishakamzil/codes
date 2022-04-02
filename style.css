@@ -1,0 +1,43 @@
+
+.content{
+    text-align: center;
+    display: flex;
+}
+.Tent{
+    width: 90%;
+    height: 400px;
+    border: 0;
+    background-color: gray;
+    margin: 10px;
+}
+.buttons .play{
+    border: 0;
+    background-color: rgb(255, 83, 15);
+    padding: 5px 10px;
+    margin: 10px 0;
+}
+.buttons .remov{
+    border: 0;
+    background-color: rgb(134, 65, 38);
+    padding: 5px 10px;
+}
+.p{
+    text-align: center;
+}
+.outputP{
+   padding-top: 20px;
+   color: red;
+   margin: auto;
+}
+
+.output{
+    background-color: rgb(189, 184, 184);
+    max-width: 90% !important;
+    min-height: 400px ;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+
+
